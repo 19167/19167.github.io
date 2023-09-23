@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>ผลงานด้านวิชาการ</title>
+<title>contact me</title>
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.6.1/css/foundation.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.6.1/css/foundation-float.min.css">
@@ -24,12 +24,12 @@
     <link href="css/mdb.css" rel="stylesheet">
 
 <div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a class="active" href="index.html">Home</a>
+  <a href="certificate.html">certificate</a>
+  <a href="contact.html">Contact</a>
+  <a href="about.html">About</a>
 <div class="imagenav">
-  <img class="navpic1"src="https://media.geeksforgeeks.org/auth/profile/8ceu3jpotjla4m5wpbm7"alt="" width="30"height="30"></a>
+  <img class="navpic1"src="picture/logo_ps"alt="" width="32"height="32"></a>
 
 
 </script> 
